@@ -1,0 +1,7 @@
+C:\Users\chri45i4\source\repos\traadsSynkronisering\trådsSynkronisering1\trådsSynkronisering1\obj\Debug\trådsSynkronisering1.csprojAssemblyReference.cache
+C:\Users\chri45i4\source\repos\traadsSynkronisering\trådsSynkronisering1\trådsSynkronisering1\obj\Debug\trådsSynkronisering1.csproj.CoreCompileInputs.cache
+C:\Users\chri45i4\source\repos\traadsSynkronisering\trådsSynkronisering1\trådsSynkronisering1\bin\Debug\trådsSynkronisering1.exe.config
+C:\Users\chri45i4\source\repos\traadsSynkronisering\trådsSynkronisering1\trådsSynkronisering1\bin\Debug\trådsSynkronisering1.exe
+C:\Users\chri45i4\source\repos\traadsSynkronisering\trådsSynkronisering1\trådsSynkronisering1\bin\Debug\trådsSynkronisering1.pdb
+C:\Users\chri45i4\source\repos\traadsSynkronisering\trådsSynkronisering1\trådsSynkronisering1\obj\Debug\trådsSynkronisering1.exe
+C:\Users\chri45i4\source\repos\traadsSynkronisering\trådsSynkronisering1\trådsSynkronisering1\obj\Debug\trådsSynkronisering1.pdb
