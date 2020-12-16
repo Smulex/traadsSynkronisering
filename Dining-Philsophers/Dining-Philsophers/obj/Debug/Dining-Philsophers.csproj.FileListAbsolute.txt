@@ -1,0 +1,7 @@
+C:\Users\chri45i4\source\repos\traadsSynkronisering\Dining-Philsophers\Dining-Philsophers\bin\Debug\Dining-Philsophers.exe.config
+C:\Users\chri45i4\source\repos\traadsSynkronisering\Dining-Philsophers\Dining-Philsophers\bin\Debug\Dining-Philsophers.exe
+C:\Users\chri45i4\source\repos\traadsSynkronisering\Dining-Philsophers\Dining-Philsophers\bin\Debug\Dining-Philsophers.pdb
+C:\Users\chri45i4\source\repos\traadsSynkronisering\Dining-Philsophers\Dining-Philsophers\obj\Debug\Dining-Philsophers.csprojAssemblyReference.cache
+C:\Users\chri45i4\source\repos\traadsSynkronisering\Dining-Philsophers\Dining-Philsophers\obj\Debug\Dining-Philsophers.csproj.CoreCompileInputs.cache
+C:\Users\chri45i4\source\repos\traadsSynkronisering\Dining-Philsophers\Dining-Philsophers\obj\Debug\Dining-Philsophers.exe
+C:\Users\chri45i4\source\repos\traadsSynkronisering\Dining-Philsophers\Dining-Philsophers\obj\Debug\Dining-Philsophers.pdb
