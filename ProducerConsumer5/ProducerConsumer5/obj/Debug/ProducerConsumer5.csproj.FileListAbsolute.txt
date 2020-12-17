@@ -1,0 +1,7 @@
+C:\Users\chri45i4\source\repos\traadsSynkronisering\ProducerConsumer5\ProducerConsumer5\bin\Debug\ProducerConsumer5.exe.config
+C:\Users\chri45i4\source\repos\traadsSynkronisering\ProducerConsumer5\ProducerConsumer5\bin\Debug\ProducerConsumer5.exe
+C:\Users\chri45i4\source\repos\traadsSynkronisering\ProducerConsumer5\ProducerConsumer5\bin\Debug\ProducerConsumer5.pdb
+C:\Users\chri45i4\source\repos\traadsSynkronisering\ProducerConsumer5\ProducerConsumer5\obj\Debug\ProducerConsumer5.csprojAssemblyReference.cache
+C:\Users\chri45i4\source\repos\traadsSynkronisering\ProducerConsumer5\ProducerConsumer5\obj\Debug\ProducerConsumer5.csproj.CoreCompileInputs.cache
+C:\Users\chri45i4\source\repos\traadsSynkronisering\ProducerConsumer5\ProducerConsumer5\obj\Debug\ProducerConsumer5.exe
+C:\Users\chri45i4\source\repos\traadsSynkronisering\ProducerConsumer5\ProducerConsumer5\obj\Debug\ProducerConsumer5.pdb
